@@ -17,5 +17,5 @@ class CfgPatches
 	};
 };
 
-#include "\Jets_Sensor_Fix\CUP_F35B.hpp"
+//#include "\Jets_Sensor_Fix\CUP_F35B.hpp"
 #include "\Jets_Sensor_Fix\JSJC_FA18F.hpp"
